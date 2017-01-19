@@ -14,6 +14,7 @@ Requires three command line arguments:
 3. The message with '+' signs to instead of spaces.
 
 Ex. So if you wanted to send "Hello, my name is Joe" to a public channel called "friends" you would write this:
+
 `python slack_message_sender_prod.py -c friends Hello+my+name+is+Joe`
 
 
