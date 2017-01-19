@@ -6,8 +6,11 @@ in line 10 for it to function.
 #Instructions
 Must have python installed.
 Requires three command line arguments:
+
 1. -c if your are sending the message to public channel, -g if you are sending to private channel
+
 2. The name of the channel
+
 3. The message with '+' signs to instead of spaces.
 
 Ex. So if you wanted to send "Hello, my name is Joe" to a public channel called "friends" you would write this:
