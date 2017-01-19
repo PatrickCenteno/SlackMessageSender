@@ -7,7 +7,7 @@ in line 10 for it to function.
 Must have python installed.
 Requires three command line arguments:
 
-1. -c if your are sending the message to public channel, -g if you are sending to private channel
+1. `-c` if your are sending the message to public channel, `-g` if you are sending to private channel
 
 2. The name of the channel
 
